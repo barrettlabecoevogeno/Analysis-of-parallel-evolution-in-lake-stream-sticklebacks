@@ -1,0 +1,13 @@
+libraryname,habitat,location,illumina_index
+ML1,Lake,Misty,13
+ML2,Lake,Misty,4
+ML3,Lake,Misty,5
+MS1,Stream,Misty,15
+MS2,Stream,Misty,16
+MS3,Stream,Misty,14
+RL1,Lake,Robert's,7
+RL2,Lake,Robert's,1
+RL3,Lake,Robert's,18
+RS1,Stream,Robert's,6
+RS2,Stream,Robert's,12
+RS3,Stream,Robert's,19
